@@ -1,0 +1,122 @@
+﻿@model IEnumerable<Biblioteca_Reges.Models.Leitor>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Listagem de Leitores"; ;
+}
+
+<!DOCTYPE html>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        Relação de Leitores registrados
+    </div>
+    <div>
+        <div class="panel-body">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.LeitorId)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Nome)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Cpf)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DataNascimento)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Logradouro)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Cep)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Cidade)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Uf)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.LeitorId)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Nome)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Cpf)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DataNascimento)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Logradouro)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Cep)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Cidade)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Uf)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Alterar", "Edit", new { id = item.LeitorId })
+                                @Html.ActionLink("Detalhes", "Details", new { id = item.LeitorId })
+                                @Html.ActionLink("Apagar", "Delete", new { id = item.LeitorId })
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+        <div class="panel-footer panel-info">
+            @Html.ActionLink("Inserir Novo Leitor", "Create", null, new { @class = "btn btn-successs" })
+        </div>
+    </div>
+    @section styles{
+        <link href="~/Content/DataTables/css/dataTables.bootstrap.css" rel="stylesheet" />
+    }
+
+    @section ScriptPage{
+        <script src="~/scripts/DataTables/jquery.dataTables.js"></script>
+        <script src="~/scripts/DataTables/dataTables.bootstrap.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.table').dataTable({ "order": [[1, "asc"]] });
+            });
+        </script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('li').removeClass("active");
+                $('#liLeitor').addClass("active");
+            });
+        </script>
+    }
+</div>

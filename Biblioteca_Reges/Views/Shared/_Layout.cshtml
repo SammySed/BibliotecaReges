@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    @RenderSection("styles", false)
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="page-header bg-danger">
+                <h1>
+                    Desenvolvimento em ASP.NET MVC
+                    <small class="text-danger">
+                        Utiizando o Bootstrap
+                    </small>
+                </h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-3 col-md-3 bg-success">
+                <ul class="nav nav-pills nav-stacked">
+                    <li id="liHome" role="presentation"><a href="#">Home</a></li>
+                    <li id="liBibliotecario" role="presentation">@Html.ActionLink("Bibliotecario", "Index", "Bibliotecario")</li>
+                    <li id="liLeitor" role="presentation">@Html.ActionLink("Leitor", "Index", "Leitor")</li>
+                    <li id="liLivro" role="presentation">@Html.ActionLink("Livro", "Index", "Livro")</li>
+                </ul>
+            </div>
+
+            <div class="col-xs-9 col-md-9">
+                <br />
+                @RenderBody()
+            </div>
+        </div>
+
+        <br />
+        <div class="row">
+            <div class="col-xs-12 col-md-12 bg-danger">
+                <small>Layout com Bootstrap</small>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="~/Scripts/jquery-3.0.0.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+
+    @RenderSection("ScriptPage", false);
+
+</body>
+</html>

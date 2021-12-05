@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Biblioteca_Reges.Models.Livro>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Listagem de Livros";
+}
+
+@*<!DOCTYPE html>*@
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        Relação de Livros registrados
+    </div>
+    <div class="panel-body">
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.LivroId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.nome)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.autor)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.nomeEditora)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.genero)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.isbn)
+                    </th>                
+                    <th>ID Bibliotecario</th>
+                    <th>ID Leitor</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.LivroId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nome)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.autor)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nomeEditora)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.genero)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.isbn)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.bibliotecarioid)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.leitorId)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Alterar", "Edit", new { id = item.LivroId }) |
+                            @Html.ActionLink("Detalhes", "Details", new { id = item.LivroId }) |
+                            @Html.ActionLink("Apagar", "Delete", new { id = item.LivroId })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <div class="panel-footer panel-info">
+            @Html.ActionLink("Registrar novo Livro", "Create", null, new { @class = "btn btn-success" })
+        </div>
+    </div>
+
+    @section styles{
+        <link href="@Url.Content("~/Content/DataTables/css/dataTables.bootstrap.css")" rel="stylesheet" />
+    }
+
+    @section ScriptPage{
+        <script src="@Url.Content("~/Scripts/DataTables/jquery.dataTables.js")"></script>
+        <script src="@Url.Content("~/Scripts/DataTables/dataTables.bootstrap.js")"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('li').removeClass("active");
+                $('#liLivro').addClass("active")
+                $('.table').dataTable({
+                    "order": [[1, "asc"]]
+                });
+            });
+        </script>
+    }
+</div>

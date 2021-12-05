@@ -1,0 +1,234 @@
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.dll.config
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.pdb
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.exe
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.exe.config
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.rsp
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.exe
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.exe.config
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.rsp
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Managed.Core.targets
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.AppContext.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Collections.Immutable.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Console.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Globalization.Calendars.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.Compression.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.FileSystem.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Net.Http.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Net.Sockets.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Reflection.Metadata.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.ValueTuple.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XmlDocument.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XPath.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.exe
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.exe.config
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.rsp
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\VBCSCompiler.exe
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\VBCSCompiler.exe.config
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.SqlServer.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.Web.Infrastructure.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Helpers.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Mvc.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Razor.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Deployment.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Razor.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.SqlServer.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Razor.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Deployment.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Razor.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Helpers.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Mvc.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.AssemblyReference.cache
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.CoreCompileInputs.cache
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.CopyComplete
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.dll
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.pdb
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.Migrations.InitialCreate.resources
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.GenerateResource.cache
+D:\source\repos\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.Migrations.initial.resources
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.dll.config
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.pdb
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.exe
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.exe.config
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.rsp
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.exe
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.exe.config
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.rsp
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.AppContext.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Collections.Immutable.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Console.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Globalization.Calendars.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.Compression.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.FileSystem.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Net.Http.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Net.Sockets.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Reflection.Metadata.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.ValueTuple.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XPath.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.exe
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.exe.config
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.rsp
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\VBCSCompiler.exe
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\VBCSCompiler.exe.config
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.SqlServer.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.Web.Infrastructure.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Helpers.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Mvc.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Razor.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Deployment.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Razor.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.SqlServer.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Razor.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Deployment.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Razor.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Helpers.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Mvc.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.CoreCompileInputs.cache
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.CopyComplete
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.dll
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.pdb
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.AssemblyReference.cache
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.Migrations.InitialCreate.resources
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.GenerateResource.cache
+D:\SWallDestroyer\Desktop\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.Migrations.initial.resources
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.dll.config
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\Biblioteca_Reges.pdb
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.exe
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.exe.config
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csc.rsp
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.exe
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.exe.config
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\csi.rsp
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.AppContext.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Collections.Immutable.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Console.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Globalization.Calendars.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.Compression.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.FileSystem.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Net.Http.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Net.Sockets.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Reflection.Metadata.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.ValueTuple.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XPath.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.exe
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.exe.config
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\vbc.rsp
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\VBCSCompiler.exe
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\roslyn\VBCSCompiler.exe.config
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.SqlServer.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.Web.Infrastructure.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Helpers.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Mvc.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Razor.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Deployment.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Razor.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\EntityFramework.SqlServer.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Razor.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Deployment.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Webpages.Razor.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Helpers.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\System.Web.Mvc.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.AssemblyReference.cache
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.CoreCompileInputs.cache
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.csproj.CopyComplete
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.dll
+D:\SWallDestroyer\Desktop\Nova pasta\Biblioteca_Reges\Biblioteca_Reges\obj\Debug\Biblioteca_Reges.pdb
